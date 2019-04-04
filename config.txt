@@ -3,5 +3,5 @@ prefix=$
 game=Break | $play
 stayinchannel=true
 songinstatus=false
-token=NTYzMjEwMjEyODQwOTY0MTA2.XKWIrw.qAE1SjgMj_DlxgTcfAohbsBxo-s
+token=NTYzMjEwMjQ2Mzc0MjkzNTA1.XKWKeA.sGpHrJofI0JqDwQyZkv2hbRZ9kQ
 
